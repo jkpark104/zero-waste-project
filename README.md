@@ -46,7 +46,7 @@
 <img src="http://www.seohey.co.kr/zero-waste/gifs/contactus.gif" width="700">
 
 ### 5-Cases Section
-<img src="http://www.seohey.co.kr/zero-waste/gifs/cases.gif" width="700">
+<img src="https://user-images.githubusercontent.com/87417572/145672306-d2a98ef0-29e7-43b9-98fa-ef19098fdea8.gif" width="700">
 
 ### 5R Section
 <img src="http://www.seohey.co.kr/zero-waste/gifs/5Rs.gif" width="700">
