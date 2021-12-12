@@ -37,7 +37,7 @@
 <img src="http://www.seohey.co.kr/zero-waste/gifs/visual.gif" width="700">
 
 ### Intro Section
-<img src="http://www.seohey.co.kr/zero-waste/gifs/pollution.gif" width="700">
+<img src="https://user-images.githubusercontent.com/87417572/145706813-bf0ef4fb-49c7-4b87-a4d5-4e7c035e88cb.gif" width="700">
 
 ### MBTI Page
 <img src="http://www.seohey.co.kr/zero-waste/gifs/mbti.gif" width="700">
