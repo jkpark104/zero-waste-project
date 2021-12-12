@@ -43,7 +43,7 @@
 <img src="http://www.seohey.co.kr/zero-waste/gifs/mbti.gif" width="700">
 
 ### SupportUs Page
-<img src="http://www.seohey.co.kr/zero-waste/gifs/contactus.gif" width="700">
+<img src="https://user-images.githubusercontent.com/87417572/145706664-0373afc1-d2d1-4f69-8991-f92d30d98c43.gif" width="700">
 
 ### 5-Cases Section
 <img src="https://user-images.githubusercontent.com/87417572/145672306-d2a98ef0-29e7-43b9-98fa-ef19098fdea8.gif" width="700">
